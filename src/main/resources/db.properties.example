@@ -1,0 +1,6 @@
+# Copy this file and rename the copy to db.properties.
+# Do not upload your real database password to GitHub.
+
+db.url=jdbc:postgresql://localhost:5432/studentdb
+db.user=postgres
+db.password=your_password
